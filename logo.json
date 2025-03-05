@@ -4,6 +4,36 @@
       "id": 1,
       "name": "logo",
       "image": "https://i.imgur.com/GwKAlZp.png"
+    },
+    {
+      "id": 2,
+      "name": "burger",
+      "image": "https://i.imgur.com/6PSSEn5.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "coffee",
+      "image": "https://i.imgur.com/A7NgBhK.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "pasta",
+      "image": "https://i.imgur.com/mEYRXJX.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "tacos",
+      "image": "https://i.imgur.com/nSmzscT.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "breakfast",
+      "image": "https://i.imgur.com/cq5eS75.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "icedcoffee",
+      "image": "https://i.imgur.com/o7kLklM.jpeg"
     }
   ]
 }
