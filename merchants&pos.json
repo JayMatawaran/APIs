@@ -1,0 +1,94 @@
+{
+  "merchants": [
+    {
+      "merchant_id": 1,
+      "merchant_name": "Merchant A",
+      "pos_systems": [
+        {
+          "pos_id": 101,
+          "pos_name": "POS A1"
+        },
+        {
+          "pos_id": 102,
+          "pos_name": "POS A2"
+        },
+        {
+          "pos_id": 103,
+          "pos_name": "POS A3"
+        }
+      ]
+    },
+    {
+      "merchant_id": 2,
+      "merchant_name": "Merchant B",
+      "pos_systems": [
+        {
+          "pos_id": 201,
+          "pos_name": "POS B1"
+        },
+        {
+          "pos_id": 202,
+          "pos_name": "POS B2"
+        },
+        {
+          "pos_id": 203,
+          "pos_name": "POS B3"
+        }
+      ]
+    },
+    {
+      "merchant_id": 3,
+      "merchant_name": "Merchant C",
+      "pos_systems": [
+        {
+          "pos_id": 301,
+          "pos_name": "POS C1"
+        },
+        {
+          "pos_id": 302,
+          "pos_name": "POS C2"
+        },
+        {
+          "pos_id": 303,
+          "pos_name": "POS C3"
+        }
+      ]
+    },
+    {
+      "merchant_id": 4,
+      "merchant_name": "Merchant D",
+      "pos_systems": [
+        {
+          "pos_id": 401,
+          "pos_name": "POS D1"
+        },
+        {
+          "pos_id": 402,
+          "pos_name": "POS D2"
+        },
+        {
+          "pos_id": 403,
+          "pos_name": "POS D3"
+        }
+      ]
+    },
+    {
+      "merchant_id": 5,
+      "merchant_name": "Merchant E",
+      "pos_systems": [
+        {
+          "pos_id": 501,
+          "pos_name": "POS E1"
+        },
+        {
+          "pos_id": 502,
+          "pos_name": "POS E2"
+        },
+        {
+          "pos_id": 503,
+          "pos_name": "POS E3"
+        }
+      ]
+    }
+  ]
+}
