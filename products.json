@@ -21,7 +21,7 @@
     {
       "id": 3,
       "name": "Ham sandwich",
-      "Category": "sandwiches",
+      "category": "sandwiches",
       "image": "https://i.imgur.com/IjQV8U1.jpeg",
       "price": 39,
       "hasVariant": true,
