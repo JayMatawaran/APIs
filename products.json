@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "name": "3 in 1 a Kopiko",
+      "name": "3 in 1 Kopiko",
       "category": "coffee",
       "image": "https://i.imgur.com/7RpD94f.jpeg",
       "price": 15,
@@ -128,7 +128,7 @@
     },
     {
       "id": 15,
-      "name": "Carbonara",
+      "name": "Kalbonara",
       "category": "pasta",
       "image": "https://i.imgur.com/buZC3Tu.jpeg",
       "price": 89,
