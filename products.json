@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Egg sandwich",
+      "category": "sandwiches",
+      "image": "https://i.imgur.com/U1rTCjN.jpeg",
+      "price": 19.99,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 2,
+      "name": "Hotdog sandwich",
+      "category": "sandwiches",
+      "image": "https://i.imgur.com/LRahmrU.jpeg",
+      "price": 29,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 3,
+      "name": "Ham sandwich",
+      "Category": "sandwiches",
+      "image": "https://i.imgur.com/IjQV8U1.jpeg",
+      "price": 39,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 4,
+      "name": "3 in 1 a Kopiko",
+      "category": "coffee",
+      "image": "https://i.imgur.com/7RpD94f.jpeg",
+      "price": 10,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 5,
+      "name": "Americano",
+      "category": "coffee",
+      "image": "https://i.imgur.com/GeCWI4F.jpegv",
+      "price": 69,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 6,
+      "name": "Cappuccino",
+      "category": "coffee",
+      "image": "https://i.imgur.com/iWvOYkQ.jpeg",
+      "price": 79,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 7,
+      "name": "Happy meals",
+      "category": "meals",
+      "image": "https://i.imgur.com/vhtRaZa.png",
+      "price": 150,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 8,
+      "name": "Super meals",
+      "category": "meals",
+      "image": "https://i.imgur.com/i3XT5Qw.jpeg",
+      "price": 150,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 9,
+      "name": "1-PC Chicken Spaghetti Meals",
+      "category": "meals",
+      "image": "https://i.imgur.com/gl0hHJH.jpeg",
+      "price": 119,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 10,
+      "name": "Water",
+      "category": "drinks",
+      "image": "https://i.imgur.com/AmiM6Vy.jpeg",
+      "price": 15,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 11,
+      "name": "Pepsi",
+      "category": "drinks",
+      "image": "https://i.imgur.com/ISsqIei.jpeg",
+      "price": 20,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 12,
+      "name": "Coke",
+      "category": "drinks",
+      "image": "https://i.imgur.com/lWJUTm5.jpeg",
+      "price": 20,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 13,
+      "name": "Macaroni",
+      "category": "pasta",
+      "image": "https://i.imgur.com/0dhRuvp.jpeg",
+      "price": 120,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 14,
+      "name": "Spaghetti",
+      "category": "pasta",
+      "image": "https://i.imgur.com/Lh6MeFJ.jpeg",
+      "price": 79,
+      "hasVariant": true,
+      "hasModifiers": true
+    },
+    {
+      "id": 15,
+      "name": "Carbonara",
+      "category": "pasta",
+      "image": "https://i.imgur.com/buZC3Tu.jpeg",
+      "price": 89,
+      "hasVariant": true,
+      "hasModifiers": true
+    }
+  ]
+}
