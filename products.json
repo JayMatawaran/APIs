@@ -6,7 +6,7 @@
       "category": "sandwiches",
       "image": "https://i.imgur.com/U1rTCjN.jpeg",
       "price": 19.99,
-      "hasVariant": true,
+      "hasVariant": false,
       "hasModifiers": true
     },
     {
@@ -15,7 +15,7 @@
       "category": "sandwiches",
       "image": "https://i.imgur.com/LRahmrU.jpeg",
       "price": 29,
-      "hasVariant": true,
+      "hasVariant": false,
       "hasModifiers": true
     },
     {
@@ -24,7 +24,7 @@
       "category": "sandwiches",
       "image": "https://i.imgur.com/IjQV8U1.jpeg",
       "price": 39,
-      "hasVariant": true,
+      "hasVariant": false,
       "hasModifiers": true
     },
     {
@@ -33,8 +33,8 @@
       "category": "coffee",
       "image": "https://i.imgur.com/7RpD94f.jpeg",
       "price": 15,
-      "hasVariant": true,
-      "hasModifiers": true
+      "hasVariant": false,
+      "hasModifiers": false
     },
     {
       "id": 5,
@@ -88,7 +88,7 @@
       "image": "https://i.imgur.com/AmiM6Vy.jpeg",
       "price": 15,
       "hasVariant": true,
-      "hasModifiers": true
+      "hasModifiers": false
     },
     {
       "id": 11,
