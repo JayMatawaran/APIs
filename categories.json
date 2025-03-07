@@ -3,27 +3,27 @@
     {
       "id": 1,
       "name": "Sandwiches",
-      "image": "https://i.imgur.com/QwGypW5.jpeg"
+      "image": "https://i.imgur.com/j3sgFMR.jpeg"
     },
     {
       "id": 2,
       "name": "Coffee",
-      "image": "https://i.imgur.com/YAJ46g6.jpeg"
+      "image": "https://i.imgur.com/UOL2U5Y.jpeg"
     },
     {
       "id": 3,
       "name": "Meals",
-      "image": "https://i.imgur.com/uOQf6LE.jpeg"
+      "image": "https://i.imgur.com/HZOEMEN.jpeg"
     },
     {
       "id": 4,
       "name": "Drinks",
-      "image": "https://i.imgur.com/mHhJLvr.jpeg"
+      "image": "https://i.imgur.com/WjVIy87.jpeg"
     },
     {
       "id": 5,
       "name": "Pasta",
-      "image": "https://i.imgur.com/4q88T5k.jpeg"
+      "image": "https://i.imgur.com/56BnDWc.jpeg"
     }
   ]
 }
