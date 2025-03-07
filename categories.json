@@ -2,27 +2,27 @@
   "productCategories": [
     {
       "id": 1,
-      "name": "sandwiches",
+      "name": "Sandwiches",
       "image": "https://i.imgur.com/QwGypW5.jpeg"
     },
     {
       "id": 2,
-      "name": "coffee",
+      "name": "Coffee",
       "image": "https://i.imgur.com/YAJ46g6.jpeg"
     },
     {
       "id": 3,
-      "name": "meals",
+      "name": "Meals",
       "image": "https://i.imgur.com/uOQf6LE.jpeg"
     },
     {
       "id": 4,
-      "name": "drinks",
+      "name": "Drinks",
       "image": "https://i.imgur.com/mHhJLvr.jpeg"
     },
     {
       "id": 5,
-      "name": "pasta",
+      "name": "Pasta",
       "image": "https://i.imgur.com/4q88T5k.jpeg"
     }
   ]
